@@ -7,7 +7,7 @@
 ### ⚙️ DevOps
 
 ### 🧠 AI & Embedded 
-- [Название проекта](https://github.com/Ginortej/AI_fis_helper) - ИИ агент интегрированный в esp32
+- [ИИ + esp32](https://github.com/Ginortej/AI_fis_helper) - ИИ агент интегрированный в esp32
 
 ### 💻 Backend
 - [Infra](https://github.com/Ginortej/Infra) 
